@@ -58,8 +58,14 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
  - [Reinforcement Learning Examples by RLCode](https://github.com/rlcode/reinforcement-learning) - A Collection of minimal and clean reinforcement learning examples
  - [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL) - Popular deep RL algorithm implementations with PyTorch
  - [Black-DROPS](https://github.com/resibots/blackdrops) - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
+ - [Browse state-of-the-art](https://paperswithcode.com/state-of-the-art?fbclid=IwAR0qtP_qJG58eFONylZRv6y8NN0X_2MKzKOYPCsKrr4370E4t_I9G0kukeM) - all the state-of-art projects include CV, NLP, Robotics
+ - [Code for real robot examples](https://github.com/kindredresearch/SenseAct) - implemented in real physical robots
+ - [Benchmarking of model-based reinforcement learning](https://arxiv.org/abs/1907.02057) - all the model-based reinforcement learning algorithms
 
 ## Theory
+
+## Blog
+- [Paper reading] [endtoendAI](https://www.endtoend.ai/blog/tags/reinforcement-learning/)
 
 ### Lectures
  - [UCL] [COMPM050/COMPGI13 Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver
@@ -75,6 +81,11 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
  - [CMU] [10703: Deep Reinforcement Learning and Control, Spring 2017](https://katefvision.github.io/)
  - [MIT] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
    - [Lecture 2: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+ - [DLRL summer school] [Lectures for deep learning and reinforcement learning]
+   - [2016 DLRL summer school in Montreal](http://videolectures.net/deeplearning2016_montreal/)
+   - [2017 DLRL summer school in Montreal](http://videolectures.net/deeplearning2017_montreal/)
+   - [2018 DLRL summer school in Toronto](http://videolectures.net/DLRLsummerschool2018_toronto/)
+ - [CMU] [Domain knowledge intergrate into deep learning process](https://www.cs.cmu.edu/~rsalakhu/NY_2019_v3.pdf?fbclid=IwAR173VPXIf5qKMdHQz9ptDT34v9XT29y8PUitU_B3MqgL1aJZXLBuUt38ag)
 
 
 ### Books
@@ -162,6 +173,7 @@ Computer Games
   - Efficient Reinforcement Learning for Robots using Informative Simulated Priors (Cutler, ICRA 2015) [[Paper]](http://markjcutler.com/papers/Cutler15_ICRA.pdf) [[Video]](https://www.youtube.com/watch?v=kKClFx6l1HY)
   - Robots that can adapt like animals (Cully, Nature 2015) [[Paper](https://arxiv.org/abs/1407.3501)] [[Video](https://www.youtube.com/watch?v=T-c17RKh3uE)] [[Code](https://github.com/resibots/cully_2015_nature)]
   - Black-Box Data-efficient Policy Search for Robotics (Chatzilygeroudis, IROS 2017) [[Paper](https://arxiv.org/abs/1703.07261)] [[Video](https://www.youtube.com/watch?v=kTEyYiIFGPM)] [[Code](https://github.com/resibots/blackdrops)]
+  - Model-driven DDPG with fuzzy reward signals for robotic peg-in-hole assembly(IEEE Transactions on Industrial Informatics) [[Paper](https://ieeexplore.ieee.org/abstract/document/8454796)]
 
 
 ### Control
@@ -228,3 +240,4 @@ Computer Games
 - [BURLAP](http://burlap.cs.brown.edu) - Brown-UMBC Reinforcement Learning and Planning, a library written in Java
 - [MAgent](https://github.com/geek-ai/MAgent) - A Platform for Many-agent Reinforcement Learning. 
 - [Ray RLlib](http://ray.readthedocs.io/en/latest/rllib.html) - Ray RLlib is a reinforcement learning library that aims to provide both performance and composability.
+- [MIT Autonomous Driving Lab](https://github.com/lexfridman) - This include a deep traffic and deep learning for autonomous driving. 
